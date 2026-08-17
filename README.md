@@ -1,2 +1,2 @@
-\# Mi primer proyecto con Git
+\# Mi primer proyecto utilizando con Git y GitHub
 
